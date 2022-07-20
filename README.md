@@ -47,7 +47,7 @@
 ## :dart: About ##
 
 ATM APP. Whit this application inside your bank application you can do the action that you will do in the ATM before you are in the ATM.
-I made it simple and comfortable for your eyes with color and centralized to avoid moving your screen.
+I made it simple and comfortable for your eyes with a darkgrey color and centralized to avoid moving your screen.
 
 ## :sparkles: Features ##
 
